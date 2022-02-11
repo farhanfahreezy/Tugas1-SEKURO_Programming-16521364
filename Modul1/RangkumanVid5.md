@@ -24,14 +24,14 @@ Staging Area dan Histori akan tersimpan dalam folder `.git`
 
 ## Screenshot
 
->![Versi Git](gambar/Screenshot(162).png)
+>![Versi Git](Gambar/Screenshot(162).png)
 >Versi Git (`git --version`)
 
->![Versi Git](gambar/Screenshot(163).png)
+>![Versi Git](Gambar/Screenshot(163).png)
 >`git init`
 
->![Versi Git](gambar/Screenshot(164).png)
+>![Versi Git](Gambar/Screenshot(164).png)
 >`git status`
 
->![Versi Git](gambar/Screenshot(165).png)
+>![Versi Git](Gambar/Screenshot(165).png)
 >`git commit`
