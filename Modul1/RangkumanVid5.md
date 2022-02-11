@@ -19,3 +19,19 @@ Di video ini menjelaskan cara instalasi git
     >Memberitahu git bahwa ada perubahan
 3. History
     >Data dari file yang sudah di commit
+
+Staging Area dan Histori akan tersimpan dalam folder `.git`
+
+## Screenshot
+
+>![Versi Git](gambar/Screenshot(162).png)
+>Versi Git (`git --version`)
+
+>![Versi Git](gambar/Screenshot(163).png)
+>`git init`
+
+>![Versi Git](gambar/Screenshot(164).png)
+>`git status`
+
+>![Versi Git](gambar/Screenshot(165).png)
+>`git commit`
