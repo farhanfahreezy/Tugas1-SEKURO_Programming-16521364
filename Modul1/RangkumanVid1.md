@@ -30,16 +30,13 @@ Keduanya bisa digunakan bersamaan dengan cara membuat repository github remote d
 
 ## Keyword
 
-**repository** folder project  
-**commit** rekaman/snapshot repo  
-**hash** penanda unik pada commit  
-**checkout** berpindah ke sebuah commit  
-**brach** cabang bebas dari sebuah commit  
-**merge** menggabungkan brach  
-**remote** sumber yang memiliki repo  
-**clone** mengambil repo dari remote  
-**push** mengirim commit ke repo  
-**pull** mengambil commit dari repo
-
-
-
+`repository` folder project  
+`commit` rekaman/snapshot repo  
+`hash` penanda unik pada commit  
+`checkout` berpindah ke sebuah commit  
+`brach` cabang bebas dari sebuah commit  
+`merge` menggabungkan brach  
+`remote` sumber yang memiliki repo  
+`clone` mengambil repo dari remote  
+`push` mengirim commit ke repo  
+`pull` mengambil commit dari repo
